@@ -52,9 +52,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamnotstatic/multichain-controller"
+    "url": "https://github.com/ebenezer000/multichain-controller"
   },
-  "homepage": "https://github.com/iamnotstatic/multichain-controller/blob/main/README.md",
+  "homepage": "https://github.com/ebenezer000/multichain-controller/blob/main/README.md",
   "module": "dist/multichain-controller.esm.js",
   "size-limit": [
     {
